@@ -1,0 +1,19 @@
+{
+  "name": "Study Hive — Countdown, Focus & Flashcards",
+  "short_name": "Study Hive",
+  "description": "A honey-themed study countdown, focus timer, flashcards and motivation app.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4ead9",
+  "theme_color": "#f4c430",
+  "icons": [
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

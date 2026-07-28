@@ -1,0 +1,55 @@
+# Study Hive file guide
+
+Order = load order. Do not change the `NN-` prefix.
+
+- `js/01-idle-scheduler.js` — idle-scheduler
+- `js/02-startup-animation.js` — startup-animation
+- `js/03-legal-link-fix-this-was-an.js` — legal-link-fix-this-was-an
+- `js/04-core-exam-bee-xp.js` — core-exam-bee-xp
+- `js/05-core-bee-clicker-dock.js` — core-bee-clicker-dock
+- `js/06-core-grade-exam-flashcard.js` — core-grade-exam-flashcard
+- `js/07-core-coach-bee-grade.js` — core-coach-bee-grade
+- `js/08-core-bee.js` — core-bee
+- `js/09-core-garden-sergeant-bee.js` — core-garden-sergeant-bee
+- `js/10-core-queen-pledge-sergeant.js` — core-queen-pledge-sergeant
+- `js/11-core-audio-weather-queen.js` — core-audio-weather-queen
+- `js/12-core-queen-pomodoro-bee.js` — core-queen-pomodoro-bee
+- `js/13-core-bee-music-dock.js` — core-bee-music-dock
+- `js/14-core-queen-bee-garden.js` — core-queen-bee-garden
+- `js/15-admin-mode-massive-sergeant-context-bank.js` — admin-mode-massive-sergeant-context-bank
+- `js/16-final-polish-pack-nan-fix-privacy.js` — final-polish-pack-nan-fix-privacy
+- `js/17-external-custom-background-music-keeps-git.js` — EXTERNAL CUSTOM BACKGROUND MUSIC: keeps GitHub file small
+- `js/18-ownership-marker-repeated-in-code-copyrigh.js` — OWNERSHIP MARKER: repeated in-code copyright notice
+- `js/19-queen-guide-dock-control-auto-open.js` — QUEEN GUIDE DOCK CONTROL: auto-open More Tools only for More Tools steps
+- `js/20-required-pledge-patch-users-must-write.js` — required-pledge-patch-users-must-write
+- `js/21-fill-in-the-blank-pledge-patch.js` — fill-in-the-blank-pledge-patch
+- `js/22-longer-fill-in-the-blank-pledge.js` — longer-fill-in-the-blank-pledge
+- `js/23-mobile-onboarding-typing-visibility-fix.js` — mobile-onboarding-typing-visibility-fix
+- `js/24-hard-fix-mobile-onboarding-typing-mirror.js` — hard-fix-mobile-onboarding-typing-mirror
+- `js/25-mobile-onboarding-scroll-wheel-scroll-cont.js` — mobile-onboarding-scroll-wheel-scroll-cont
+- `js/26-mobile-polish-pack-cleaner-phone-layout.js` — mobile-polish-pack-cleaner-phone-layout
+- `js/27-hard-mobile-scroll-fix-safari-brave.js` — hard-mobile-scroll-fix-safari-brave
+- `js/28-ai-bee-sergeant-brain-feature-polish.js` — ai-bee-sergeant-brain-feature-polish
+- `js/29-feature-polish-suite-queen-explainer-2.js` — feature-polish-suite-queen-explainer-2
+- `js/30-import-hub-calendar-photo-notes-subjects.js` — import-hub-calendar-photo-notes-subjects
+- `js/31-import-hub-refinement-glitch-fix-pass.js` — import-hub-refinement-glitch-fix-pass
+- `js/32-mobile-feature-launcher-start-language-pro.js` — mobile-feature-launcher-start-language-pro
+- `js/33-mobile-fullscreen-asia-languages-smoother-.js` — mobile-fullscreen-asia-languages-smoother-
+- `js/34-recent-features-polish-pass-import-hub.js` — recent-features-polish-pass-import-hub
+- `js/35-11-10-polish-pack-smart-next.js` — 11-10-polish-pack-smart-next
+- `js/36-backup-center-download-backup-copy-backup.js` — backup-center-download-backup-copy-backup
+- `js/37-launch-stabilization-pass-1-panel-manager.js` — launch-stabilization-pass-1-panel-manager
+- `js/38-20-10-final-launch-pack-pwa.js` — 20-10-final-launch-pack-pwa
+- `js/39-og-founder-card-first-1000-user.js` — og-founder-card-first-1000-user
+- `js/40-og-card-removal-future-milestone-notice.js` — og-card-removal-future-milestone-notice
+- `js/41-fix-desync-bees-clearer-music-volume.js` — fix-desync-bees-clearer-music-volume
+- `js/42-final-queen-sergeant-music-balance-patch.js` — final-queen-sergeant-music-balance-patch
+- `js/43-hard-queen-revert-fix-force-emoji.js` — hard-queen-revert-fix-force-emoji
+- `js/44-clean-recovery-patch-removes-conflicting-a.js` — clean-recovery-patch-removes-conflicting-a
+- `js/45-clean-recovery-pass-2-timer-clearance.js` — clean-recovery-pass-2-timer-clearance
+- `js/46-bee-behaviour-final-slower-old-bees.js` — bee-behaviour-final-slower-old-bees
+- `js/47-balanced-bee-counts-2-old-2.js` — balanced-bee-counts-2-old-2
+- `js/48-final-interaction-repair-no-hive-double.js` — final-interaction-repair-no-hive-double
+- `js/49-ten-extra-secrets.js` — ten-extra-secrets
+- `js/50-performance-safari-stability-patch.js` — performance-safari-stability-patch
+- `js/51-startup-diagnostics-reports-only-real-loca.js` — startup-diagnostics-reports-only-real-loca
